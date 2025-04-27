@@ -1,0 +1,32 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2024 [Your Name/Organization]
+
+This program (PC Helper App) is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
+
+Additional Terms for Redistribution
+You may modify and redistribute the source code, provided:
+
+Original credit is retained (include the original author name and app name: PC Helper App).
+
+Same license (GPLv3) applies to all derivative works.
+
+No commercial use: The code/program cannot be sold (must remain free).
+
+No illegal use: The app cannot be used for harmful or malicious purposes.
+
+Source code disclosure: If you distribute the app, you must provide access to its modified source code.
+
+Notice
+The clipboard history database (clipboard_history.db) stores user data locally. By using this app, you acknowledge that:
+
+The developer is not responsible for lost or leaked clipboard content.
+
+Users may delete the .db file to clear history manually.
+
+© 2024 [Refter]. All rights reserved.
